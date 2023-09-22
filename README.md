@@ -10,7 +10,7 @@ App live demo is accessible [here](https://chainlink-vrf-subscriptions-example-r
 Clone the github repository and install the required npm packages:
 
 ```bash
-git clone https://github.com/codingSince9/chainlink-vrf-subscriptions-example-react-app
+git clone https://github.com/0xDev3/chainlink-vrf-subscriptions-example-react-app.git
 npm install
 ```
 
