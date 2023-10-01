@@ -1,6 +1,7 @@
 # Example Dev3 Chainlink VRF Subscriptions React App
 
 This is an example react app that uses the dev3 sdk to interact with Chainlink VRF Subscriptions.
+The app runs on the Ethereum Sepolia test network.
 
 ## Live demo
 
