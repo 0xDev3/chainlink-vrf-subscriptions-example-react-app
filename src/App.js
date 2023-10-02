@@ -84,6 +84,9 @@ function App () {
 
   return (
     <div className="App">
+      <div className='network'>
+        <h2>This app is running on the Sepolia test network</h2>
+      </div>
       <h1>VRFCoordinator Info</h1>
       <div>
         { coordinatorConfig && 
